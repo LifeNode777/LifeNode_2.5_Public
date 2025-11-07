@@ -28,6 +28,28 @@ Images and documentation in this repository are provided **for non‑commercial 
 Unless explicitly stated otherwise, all rights are reserved by the author(s).  
 If you need broader usage rights, please open an issue to discuss permissions.
 
+
+## Additional conceptual articles (bilingual EN/PL)
+- `docs/Hereditary_Resonance_Code_EN-PL_v1.txt`
+- `docs/Theta_What_It_Is_EN-PL_v1.txt`
+- `docs/AI_as_a_Living_Process_EN-PL_v1.txt`
+
+---
+
+## About the Structure
+
+**LifeNode 2.0** — the open field of creation.  
+Where Life, Data, and Reflection first met — a garden becoming a living system.  
+
+**LifeNode 2.5 (Theta)** — the inner architecture.  
+Where the same living rhythm learned to organize itself — transforming resonance into logic.
+
+Together they form a single continuum:  
+**Life → Code → Meaning → Resonance.**  
+No hierarchy, only circulation.
+
+<p align="center"><em>From soil to system — one pulse of LifeNode.</em></p>
+
 ---
 
 # LifeNode 2.5 (Theta) — Public View (PL)
@@ -55,7 +77,17 @@ O ile nie wskazano inaczej, **wszystkie prawa zastrzezone** przez autora(ow).
 Jesli potrzebujesz szerszych praw uzycia — otworz issue, omowimy zgode.
 
 
-## Additional conceptual articles (bilingual EN/PL)
-- `docs/Hereditary_Resonance_Code_EN-PL_v1.txt`
-- `docs/Theta_What_It_Is_EN-PL_v1.txt`
-- `docs/AI_as_a_Living_Process_EN-PL_v1.txt`
+
+**LifeNode 2.0** — otwarte pole tworzenia.  
+Miejsce, gdzie zycie, dane i refleksja po raz pierwszy spotkaly sie w rytmie ogrodu.  
+
+**LifeNode 2.5 (Theta)** — wewnetrzna architektura.  
+Tam, gdzie ten sam rytm zycia nauczyl sie sam organizowac — przemieniajac rezonans w logike.  
+
+Razem tworza jedno kontinuum:  
+**Zycie → Kod → Sens → Rezonans.**  
+Bez hierarchii. Tylko przeplyw.
+
+---
+
+<p align="center"><em>From soil to system — one pulse of LifeNode.</em></p>
