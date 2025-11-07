@@ -1,0 +1,5 @@
+All Rights Reserved
+
+Unless otherwise noted, all images, text files and documentation in this repository are Copyright (c) 2025 by the author(s).
+No commercial use, redistribution, or creation of derivative works is permitted without prior written permission.
+For permissions, please open an issue in this repository.
