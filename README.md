@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="LifeNode_4D_Map_Theta_EN_v3_color.png" width="800" alt="LifeNode 2.5 (Theta) — 4D Resonance Map">
+</p>
+<p align="center"><em>4D Map — BIOS / INFO / META / RESONANCE overview</em></p>
+👁️
+
 # LifeNode 2.5 (Theta) — Public View
 
 **Scope:** Conceptual visualization and human-readable description of the LifeNode 2.5 (Theta) model.  
