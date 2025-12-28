@@ -2,29 +2,63 @@ The book "LIFENODE THEORY" is complete (contact the author: krzysiek_230@op.pl)
 
 preprint on Zenodo: https://doi.org/10.5281/zenodo.17494867
 
-Below
-WHITE PAPER LIFENODE
 
-Abstract
-"LifeNode Theory" presents intelligence as a process of integrating three layers of reality and two epistemologies, regulated by a constitutional body.
-Decisions arise from the harmonization of perception, tensions, and the direction of meaning, and intelligence appears as a dynamic trajectory, not a static outcome.
 
-Introduction to the Theory of Process Intelligence
-1. Contemporary cognitive models and artificial intelligence systems treat information as a representation of state. This leads to fundamental limitations wherever variability, rhythm, cyclicality, and phase transitions dominate. "LifeNode Theory" proposes an alternative paradigm: process intelligence based on trajectories of meaning arising from the tension between two epistemologies—the biological perception of the direction of life (SAMI) and the logical perception of structure (LOGOS). The document presents the ontological structure of BIOS–INFO–META, a definition of epistemological tension, a formal approach to the trajectory of meaning, and a prototypical application in the "Eden" environment. The theory provides a foundation for research on a new class of adaptive systems and AI systems operating in real-world conditions of variability.
-2. Introduction
-Today's information technologies—from classical statistical models to the latest AI models—assume that the world can be described using a set of fixed states. They average, classify, and predict, but essentially ignore what defines biological reality: variability, fluctuations, transitions, tensions, rhythms, and processes. As the civilizational diagnosis of the LifeNode project shows, civilization has lost its proper direction of cognition—instead of moving from life to meaning, it imposes meaning on reality, ignoring the dynamics of processes. LifeNode is an attempt to reverse this trend and introduce an epistemology based on process rather than on an image of the world.
-3. Model Origin and Motivation
-LifeNode grew out of practice: a two-year observation of a living microecosystem called Eden. While documenting the rhythms, changes, and states of the environment, it became clear that the living world does not exist in stable values—it exists in transitions between them. AI models attempting to interpret Eden repeatedly averaged weather sequences, leading to errors: for example, the system described November as winter, thaw, and autumn simultaneously because the states were mixed and the trajectory was ignored. This led to a key conclusion: biological reality is movement, not state.
-4. Ontology: BIOS–INFO–META
-The LifeNode model is based on three layers. BIOS represents matter, environment, biological rhythms, cyclicality, and variability. This is where real life processes occur, generating primary signals. INFO is the formalization layer: data, correlations, trajectories, relationships, models. Information is not a state, but a difference—a description of change, not value. META is meaning: interpretation, direction, intention, coherence, and value alignment. META maintains coherence between life (BIOS) and structure (INFO). The BIOS–INFO–META cycle is a metabolic process: life generates data, data generates meaning, meaning returns and corrects life.
-5. Dual Epistemology:
-SAMI ↔ LOGOS LifeNode operates with two streams of cognition. SAMI is a biological epistemology: intuition of rhythm, perception of change, direction of life, fluctuations, cycles, and transitions. LOGOS is a logical epistemology: structure, continuity, rules, audit, stability, formal relationships. Intelligence emerges in the tension between these two epistemologies. The regulator is the Hybrid Core—a mechanism that balances the SAMI/LOGOS ratios depending on the context.
-6. Process Intelligence: Meaning as Trajectory
-LifeNode redefines intelligence as the ability to interpret trajectories of tension over time. Information is not a state, but a difference between states; meaning is a derivative of these differences; trajectory is a form of intelligence. Variability is not an error—it is a signal carrier. Evolution and rhythm are fundamental, not disruptive. 7. Case Study: Eden
-Eden is a BIOS living laboratory, enabling the observation of process trajectories in natural conditions. Microclimate changes—snow, thaw, moisture condensation, soil structure variations, microbial activity—are the very language of nature. Statistical models ignore the sequence of events, generating a false image of the environment. A process-based approach reveals long-term rhythms, crucial for understanding life.
-8. Implications for AI
-AI systems hallucinate because they describe the world through average states and narratives, not trajectories. They do not perceive time, do not interpret variability, and do not understand processes. LifeNode proposes BIOS-based learning systems that interpret fluctuations and tensions over time, based on two epistemologies simultaneously.
-9. Conclusions and Research Directions
-LifeNode introduces process intelligence. The theory assumes that variability is information, meaning is derived from change, intelligence requires two epistemologies in tension, process is prior to state, BIOS is the foundation of cognition, and trajectories are the basic form of knowledge.
+☯️ Hybrid Bio-Piezoelectric Interface Experiment 👁️
 
-Further research (after securing funding through the book "LifeNode Theory") includes the development of SAMI/LOGOS architectures, tension-based decision models, BIOS data integration, adaptive systems design, and the further development of the prototype "Node 0" or Garden of Eden (including through prototypes based on data from biophotosynthesis and from electrical micropulses from mycelium in controlled, uniform greenhouse conditions).
+Overview
+This document describes a planned experimental setup investigating whether direct mechanical interaction between living plant tissue and piezoelectric semiconductor materials can generate stable, phase-coherent electrical signals in the ultra-low-frequency range (0.001–10 Hz).
+The experiment is motivated by research at the intersection of plant biomechanics, piezoelectric transduction, material geometry, and low-frequency signal coherence.
+The conceptual background is inspired by the LifeNode architecture; however, this experiment evaluates only measurable physical phenomena and makes no claims regarding cognition, intelligence, or semantic interpretation.
+
+Experimental Goal
+The goal is to test whether direct contact between plant roots and a layered piezoelectric structure can produce electrical signals that:
+ correlate with independently measured mechanical vibrations of the roots,
+ preserve phase coherence relative to the biological motion,
+ exhibit geometry-dependent spectral characteristics, and
+ remain stable over extended observation periods.
+
+Hypotheses
+H1: Mechanical micro-vibrations of plant roots in the 0.001–10 Hz range induce measurable piezoelectric voltage in a LiNbO₃- based active layer.
+H2: The generated electrical signal maintains low phase drift relative to a reference MEMS accelerometer signal, defined as phase difference Δφ < 0.1 rad over relevant time windows.
+H3: The spatial geometry of the electrode pattern influences signal spectrum, harmonic distribution, and phase stability, functioning as an analog spatial filter.
+
+Experimental Stack 
+The sensor structure consists of four layers:
+ A synthetic quartz substrate (SiO₂, Z-cut, approximately 0.3 mm thick) providing mechanical stability and acoustic coupling.
+ An active piezoelectric layer based on lithium niobate (LiNbO₃), optionally reinforced with nanodiamond filler, approximately 50 micrometers thick.
+ Differential electrodes made of indium tin oxide (ITO), patterned into defined geometries, approximately 150 nanometers thick.
+ A biocompatible coating composed of pectin, chitosan, and nanocellulose (approximately 10 micrometers thick) enabling direct root contact while protecting the electronics.
+
+Measurement Setup
+Piezoelectric output is measured as a differential voltage signal in the millivolt range. 
+Root motion is independently measured using a MEMS accelerometer with a ±2 g range.
+Signal acquisition uses a minimum 16-bit ADC with a sampling rate of at least 100 Hz to allow oversampling for phase analysis.
+Electromagnetic noise is reduced using a grounded copper shield (Faraday cage) and star-ground topology.
+
+Experimental Protocol
+ Baseline phase: A 24-hour measurement period under stable environmental conditions to establish noise floor and drift characteristics.
+ Stress phase: Controlled perturbations including soil temperature increase (+5 °C) and hydration events (defined water input), expected to increase root vibration amplitude and corresponding piezoelectric response.
+ Recovery phase: A 24-hour observation period following stress to track signal decay and stabilization.
+
+Data Analysis
+ Phase coherence is evaluated using cross-correlation and FFT-based phase comparison between the piezoelectric signal and the MEMS reference.
+ Phase difference is defined as Δφ = |φ_piezo − φ_MEMS|.
+Spectral analysis focuses on the 0.001–10 Hz band; energy outside this band is treated as noise.
+ Geometry influence is assessed by repeating the experiment with different electrode patterns and comparing spectral centroid, harmonic ratios, and phase drift statistics.
+
+Expected Outcomes
+A positive outcome would demonstrate a stable, analog bio-mechanical to electrical interface with preserved phase coherence and measurable dependence on electrode geometry.
+A negative or null outcome would include phase instability, dominance of environmental noise, or lack of observable geometry-dependent effects.
+Both outcomes are considered valid and informative.
+
+Scope Limitations
+This experiment does not test or demonstrate intelligence, cognition, semantic processing, or intentionality.
+All higher-level interpretations are explicitly outside the scope of this work. 
+
+Significance
+ If successful, the experiment establishes a non-symbolic, material-level biosensing interface that preserves temporal structure without requiring digital sampling at the point of contact.
+ Potential relevance includes plant physiology research, biofeedback systems, soft sensing interfaces, and exploratory analog signal processing.
+
+Status
+Planned / Prototype stage.
