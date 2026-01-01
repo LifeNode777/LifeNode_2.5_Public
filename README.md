@@ -122,4 +122,12 @@ Yes, if:
 - And that **the next civilization will not be based on data, but on rhythm**.
 
 ## ✅ One-sentence summary:
-> **Q-Core is the first physical interface that allows technology to record, recognize, and transmit the "form of experience" rather than its quantity. And that changes everything
+> **Q-Core is the first physical interface that allows technology to record, recognize, and transmit the "form of experience" rather than its quantity.
+
+☄️And that changes everything🛸
+
+🕵🏻‍♂️🧿👁️
+e-mail: krzysiek_230@op.pl
+TikTok: tiktok.com/@lifenode777
+Zenodo: https://doi.org/10.5281/zenodo.17988036
+        https://doi.org/10.5281/zenodo.17494868
