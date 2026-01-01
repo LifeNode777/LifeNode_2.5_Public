@@ -126,8 +126,15 @@ Yes, if:
 
 ☄️And that changes everything🛸
 
+
+
 🕵🏻‍♂️🧿👁️
-e-mail: krzysiek_230@op.pl
-TikTok: tiktok.com/@lifenode777
-Zenodo: https://doi.org/10.5281/zenodo.17988036
-        https://doi.org/10.5281/zenodo.17494868
+e-mail:
+krzysiek_230@op.pl
+
+TikTok:
+www.tiktok.com/@lifenode777
+
+Zenodo:
+https://doi.org/10.5281/zenodo.17988036
+https://doi.org/10.5281/zenodo.17494868
