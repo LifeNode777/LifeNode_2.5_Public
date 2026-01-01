@@ -9,7 +9,7 @@
 
 → Effect: AI doesn't understand life. It only **simulates its trace**.
 
---
+![Q-Core prototype](1767206246.png)
 
 ### ✅ Q-Core will change this in four ways—all **measurable, technical, and engineering**:
 
