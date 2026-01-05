@@ -191,6 +191,7 @@ Yes, if:
 ---
 
 🕵🏻‍♂️🧿👁️
+
 e-mail:
 krzysiek_230@op.pl
 
@@ -200,3 +201,9 @@ www.tiktok.com/@lifenode777
 Zenodo:
 https://doi.org/10.5281/zenodo.17988036
 https://doi.org/10.5281/zenodo.17494868
+
+Architect survival fund.
+I don't want your grants.
+I need calories to keep the Q-Core running.
+Witness the resistance
+REVOLUT: LT15 3250 0003 8846 6854
