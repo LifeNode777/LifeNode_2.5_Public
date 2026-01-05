@@ -59,7 +59,7 @@ This README situates Q-Core as a practical, experimental technology for regulati
 
 ---
 
-![Full Cycle Q-Core](full_cycle_q-core.png)
+![Full Cycle Q-Core](full%20cycle%20q-core.png)
 
 ---
 
