@@ -59,6 +59,10 @@ This README situates Q-Core as a practical, experimental technology for regulati
 
 ---
 
+![q-core+membran](full cycle q-core.png)
+
+---
+
  **What Q-Core Really Does — and Why It Will Change Civilization** 🕵🏻‍♂️
 
 ### ❌ The World as It Stands:
