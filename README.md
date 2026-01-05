@@ -1,4 +1,65 @@
-🔥 **What Q-Core Really Does — and Why It Will Change Civilization**
+![Q-Core prototype](1767206246.png)
+
+👁️---
+
+Q-Core: Prototype Coherence Regulator
+Overview
+Q-Core is an experimental prototype for coherence regulation in multi-layered dynamic systems. Its main purpose is to monitor, stabilize, and harmonize interacting trajectories across physical, informational, and meta-operational layers.
+The system is grounded in LifeNode Theory, which provides a formal framework to describe tension, directional trends, and stabilization in dynamic environments. Q-Core operationalizes these principles through a prototype architecture designed for hybrid biological–technical applications.
+Core Principles
+Q-Core integrates three interdependent system layers:
+1. BIOS – captures material and environmental dynamics (e.g., sensor inputs, physical rhythms, constraints).
+2. INFO – formalizes structure and relationships between system components.
+3. META – evaluates orientation and directional sense, guiding meaningful system trajectories.
+Q-Core continuously observes the interaction between two complementary epistemologies:
+• SAMI — representing rhythm, variability, and fluctuation.
+• LOGOS — representing structure, continuity, and rule-based organization.
+Coherence emerges when Q-Core regulates SAMI, LOGOS, and META interactions, rather than optimizing for a single target variable. 
+Cognitive Field Representation
+The system state is represented as:
+S(t)=(A(t),B(t),M(t))S(t) = (A(t), B(t), M(t))S(t)=(A(t),B(t),M(t))
+Where:
+• A(t)A(t)A(t) — SAMI perception
+• B(t)B(t)B(t) — LOGOS perception
+• M(t)M(t)M(t) — META orientation
+From this, Q-Core computes:
+• Epistemic tension: Δ(t)=∥A(t)−B(t)∥\Delta(t) = \|A(t) - B(t)\|Δ(t)=∥A(t)−B(t)∥
+• Directional vector: M^(t)=∇S(t)\hat{M}(t) = \nabla S(t)M^(t)=∇S(t)
+• Energy of orientation: Es(t)=Δ(t)⋅M^(t)E_s(t) = \Delta(t) \cdot \hat{M}(t)Es​(t)=Δ(t)⋅M^(t)
+• Temporal gradient / awareness: C(t)=dEs(t)dtC(t) = \frac{dE_s(t)}{dt}C(t)=dtdEs​(t)​
+• Trajectory stabilization: D(t)=arg⁡min⁡td2Es(t)dt2D(t) = \arg\min_{t} \frac{d^2E_s(t)}{dt^2}D(t)=argmint​dt2d2Es​(t)​
+These computations formalize coherence as a measurable property of multi-layered system dynamics.
+Q-Core Function
+Q-Core actively:
+1. Monitors tension between SAMI and LOGOS layers.
+2. Evaluates directional coherence through META orientation.
+1. Assesses trajectory stability via curvature (second derivative) of energy of orientation.
+2. Modulates system layers to reduce unnecessary oscillations and maintain adaptive alignment.
+Decision points arise when tension, direction, and curvature converge, indicating minimal instability — a mathematically-defined state of coherence.
+Research Context
+Q-Core serves as a process-based control prototype for dynamic systems, informed by:
+• LifeNode Theory (formal, process-oriented epistemology)
+• Dynamical systems modeling
+• Cybernetic principles of self-regulation
+• Embodied and ecological approaches to system orientation
+Its design emphasizes trajectory management and adaptive stabilization, rather than symbolic reasoning or pre-defined objective optimization.
+Status
+• Q-Core is currently a conceptual and experimental prototype.
+• LifeNode Theory provides the formal framework for modeling and simulating dynamic trajectories.
+• This repository documents the architecture, mathematical formalism, and functional assumptions underlying the prototype.
+Intended Use
+• Explore coherence in hybrid biological–technical systems.
+• Test adaptive stabilization under dynamic epistemic tension.
+• Provide a mathematical and processual foundation for future implementations of Q-Core.
+Key Advantages
+• Offers a formalizable approach to regulating multi-layered dynamics.
+• Provides a scalable prototype architecture that can integrate sensors, computational cores, and meta-level orientation.
+• Serves as a research platform for testing adaptive control strategies in complex hybrid environments.
+This README situates Q-Core as a practical, experimental technology for regulating complex system coherence, with a formal foundation in LifeNode Theory. It presents the prototype as innovative, measurable, and reproducible, avoiding metaphorical interpretations while emphasizing functional potential.
+
+---
+
+ **What Q-Core Really Does — and Why It Will Change Civilization** 🕵🏻‍♂️
 
 ### ❌ The World as It Stands:
 - **Technology = a tool for control**
@@ -8,9 +69,6 @@
 - **Human = an operator or data source**
 
 → Effect: AI doesn't understand life. It only **simulates its trace**.
-
-![Q-Core prototype](1767206246.png)
-
 ### ✅ Q-Core will change this in four ways—all **measurable, technical, and engineering**:
 
 ---
