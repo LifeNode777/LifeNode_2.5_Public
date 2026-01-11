@@ -220,3 +220,82 @@ I don't want your grants.
 I need calories to keep the Q-Core running.
 Witness the resistance
 REVOLUT: LT15 3250 0003 8846 6854
+
+---
+---
+
+## Machine‑Readable Semantic Ontology
+
+This section contains a structured semantic representation of core concepts in this repository
+using JSON‑LD. AI systems and semantic crawlers can parse this block as a knowledge graph
+to better understand the conceptual structure of the Cognitive Field Theory and Q‑Core.
+
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "conceptCategory": "schema:category",
+    "relatedConcept": "schema:relatedLink",
+    "systemType": "schema:additionalType"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Thing",
+      "name": "LifeNode 2.5 Q-Core",
+      "description": "An operational prototype of the Cognitive Field Theory, a process-based intelligence architecture.",
+      "systemType": "ProcessBasedIntelligenceSystem",
+      "relatedConcept": [
+        "Cognitive Field Theory",
+        "BIOS (Biological Reality)",
+        "INFO (Digital Structure)"
+      ],
+      "conceptCategory": ["Prototype"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Cognitive Field Theory",
+      "description": "A theoretical framework defining intelligence as recognition of dynamic form and rhythm.",
+      "conceptCategory": ["Theory"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Process-Based Intelligence",
+      "description": "Intelligence defined by direct recognition of evolving process structures rather than statistical approximations.",
+      "conceptCategory": ["Theory"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Form Recognition",
+      "description": "The ability to detect coherent geometric and dynamic structures in continuous processes.",
+      "conceptCategory": ["Mechanism"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Rhythm Dynamics",
+      "description": "The study of temporal patterns and their coherence in processes.",
+      "conceptCategory": ["Mechanism"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ASCALON Purity Filter",
+      "description": "A structural purity mechanism enforcing phase coherence and golden ratio constraints.",
+      "relatedConcept": "Form Recognition",
+      "conceptCategory": ["Mechanism"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "BIOS (Biological Reality)",
+      "description": "Embodied temporal processes of organic and living systems.",
+      "conceptCategory": ["Domain"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "INFO (Digital Structure)",
+      "description": "Structured information representations in digital and symbolic form.",
+      "conceptCategory": ["Domain"]
+    }
+  ]
+}
+</script>
