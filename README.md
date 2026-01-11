@@ -230,71 +230,169 @@ This section contains a structured semantic representation of core concepts in t
 using JSON‑LD. AI systems and semantic crawlers can parse this block as a knowledge graph
 to better understand the conceptual structure of the Cognitive Field Theory and Q‑Core.
 
+## Semantic Ontology — LifeNode Theory (Machine‑Readable)
+
 <script type="application/ld+json">
 {
   "@context": {
     "schema": "http://schema.org/",
     "name": "schema:name",
     "description": "schema:description",
-    "conceptCategory": "schema:category",
+    "type": "schema:additionalType",
     "relatedConcept": "schema:relatedLink",
-    "systemType": "schema:additionalType"
+    "category": "schema:category",
+    "identifier": "schema:identifier"
   },
   "@graph": [
     {
       "@type": "schema:Thing",
-      "name": "LifeNode 2.5 Q-Core",
-      "description": "An operational prototype of the Cognitive Field Theory, a process-based intelligence architecture.",
-      "systemType": "ProcessBasedIntelligenceSystem",
+      "name": "LifeNode Theory",
+      "description": "A process‑based epistemology defining intelligence as dynamic integration of BIOS, INFO, and META layers through SAMI and LOGOS, cohered by Hybrid Core.",
+      "type": "Theory",
       "relatedConcept": [
-        "Cognitive Field Theory",
-        "BIOS (Biological Reality)",
-        "INFO (Digital Structure)"
+        "BIOS",
+        "INFO",
+        "META",
+        "SAMI",
+        "LOGOS",
+        "Hybrid Core",
+        "Cognitive Field Variables",
+        "Cognitive Field Units",
+        "Emergent Attractors"
       ],
-      "conceptCategory": ["Prototype"]
+      "category": ["IntelligenceTheory"]
     },
     {
       "@type": "schema:Thing",
-      "name": "Cognitive Field Theory",
-      "description": "A theoretical framework defining intelligence as recognition of dynamic form and rhythm.",
-      "conceptCategory": ["Theory"]
+      "name": "BIOS",
+      "description": "Biological/material layer: real world rhythms, physical processes, source of ontological facts.",
+      "category": ["Layer"]
     },
     {
       "@type": "schema:Thing",
-      "name": "Process-Based Intelligence",
-      "description": "Intelligence defined by direct recognition of evolving process structures rather than statistical approximations.",
-      "conceptCategory": ["Theory"]
+      "name": "INFO",
+      "description": "Formal structural layer: organizes variability into relations, sequences, trajectories, and representations.",
+      "category": ["Layer"]
     },
     {
       "@type": "schema:Thing",
-      "name": "Form Recognition",
-      "description": "The ability to detect coherent geometric and dynamic structures in continuous processes.",
-      "conceptCategory": ["Mechanism"]
+      "name": "META",
+      "description": "Meaning layer: assigns direction and semantic orientation to changes and processes.",
+      "category": ["Layer"]
     },
     {
       "@type": "schema:Thing",
-      "name": "Rhythm Dynamics",
-      "description": "The study of temporal patterns and their coherence in processes.",
-      "conceptCategory": ["Mechanism"]
+      "name": "SAMI",
+      "description": "Biological epistemology: perception of rhythms, fluctuation, and variability in organic time.",
+      "category": ["Epistemology"]
     },
     {
       "@type": "schema:Thing",
-      "name": "ASCALON Purity Filter",
-      "description": "A structural purity mechanism enforcing phase coherence and golden ratio constraints.",
-      "relatedConcept": "Form Recognition",
-      "conceptCategory": ["Mechanism"]
+      "name": "LOGOS",
+      "description": "Logical epistemology: perception of structure, continuity, and ordered relations.",
+      "category": ["Epistemology"]
     },
     {
       "@type": "schema:Thing",
-      "name": "BIOS (Biological Reality)",
-      "description": "Embodied temporal processes of organic and living systems.",
-      "conceptCategory": ["Domain"]
+      "name": "Hybrid Core",
+      "description": "Epistemic coherence organ: balances SAMI and LOGOS, stabilizes dynamic sense, and generates decision trajectories.",
+      "category": ["SystemComponent"]
     },
     {
       "@type": "schema:Thing",
-      "name": "INFO (Digital Structure)",
-      "description": "Structured information representations in digital and symbolic form.",
-      "conceptCategory": ["Domain"]
+      "name": "Cognitive Field Variables",
+      "description": "Variables defining the dynamic state of the cognitive field: A(t), B(t), M(t), Δ(t), M̂(t), Eₛ(t), C(t), D(t).",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "A(t)",
+      "description": "Perception from SAMI layer in the cognitive field.",
+      "category": ["Variable"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "B(t)",
+      "description": "Perception from LOGOS layer in the cognitive field.",
+      "category": ["Variable"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "M(t)",
+      "description": "Orientation from META layer in the cognitive field.",
+      "category": ["Variable"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Δ(t)",
+      "description": "Epistemic tension: norm of difference between A(t) and B(t).",
+      "category": ["Measure"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "M̂(t)",
+      "description": "Semantic direction: gradient of the cognitive field state S(t).",
+      "category": ["Measure"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Eₛ(t)",
+      "description": "Sense energy: product of epistemic tension and semantic direction.",
+      "category": ["Measure"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "C(t)",
+      "description": "Awareness rate: temporal derivative of sense energy.",
+      "category": ["Measure"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "D(t)",
+      "description": "Decision representation: stabilization of the second derivative of sense energy.",
+      "category": ["Measure"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Cognitive Field Units",
+      "description": "Operational units emerging in the cognitive field: Pulsar BIOS, Delta Lanes, Vector M, Core Resonator, Coherence Nodes.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Pulsar BIOS",
+      "description": "Local maxima of metabolic rhythm in BIOS layer that initiates sense flow.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Delta Lanes",
+      "description": "Regions in phase space with high epistemic tension enabling transformation of sense.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Vector M",
+      "description": "Direction vector for sense flow in the cognitive field.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Core Resonator",
+      "description": "Stable point of sense energy indicating decision potential.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Coherence Nodes",
+      "description": "Clusters of trajectories representing semi‑stable sense attractors.",
+      "category": ["Concept"]
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "Emergent Attractors",
+      "description": "Higher‑order dynamic structures emerging from cognitive field behavior.",
+      "category": ["Concept"]
     }
   ]
 }
