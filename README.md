@@ -4,7 +4,7 @@
  Tonic Technologies represent a novel paradigm at the intersection of quantum physics, bioengineering, and system-level intelligence in living systems. Unlike conventional computational frameworks that rely on discrete data and deterministic logic, tonic systems operate through resonant processes, harmonic synchronization, and geometrically encoded information. This article presents a comprehensive overview of tonic technologies, their underlying scientific principles, engineering implementations, and applications, with a particular focus on the LifeNode architecture.
 🕵🏻‍♂️🕵🏻‍♂️🕵🏻‍♂️
 ---
-🧿 https://zenodo.org/records/18270998 🌐
+🧿 https://doi.org/10.5281/zenodo.18270998 🌐
 ---
 
 The complete basic edition of the book
