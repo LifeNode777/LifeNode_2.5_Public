@@ -1,3 +1,6 @@
+🔍 **New here?** Start with [FAQ.md](FAQ.md) - that's all you need to know to understand LifeNode.
+---
+
 🔥🔥🔥 NEW publication on Zenodo 🛸🛸🛸
 "Tonic Technologies: Science, Engineering, and Applications in Living Systems with Special Focus on LifeNode"
 
