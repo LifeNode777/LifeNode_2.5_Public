@@ -1,3 +1,7 @@
+![xD](xD.jpg)
+i create community on Zenodo: https://zenodo.org/communities/project_lifenode 👁️
+
+
 🛸 22.01.2026 🛸
                👁️ NEW ZENODO 👁️
 🌐 https://doi.org/10.5281/zenodo.18337086 🌐
