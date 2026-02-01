@@ -302,6 +302,10 @@ https://doi.org/10.5281/zenodo.17494868
 https://doi.org/10.5281/zenodo.18401117
 https://doi.org/10.5281/zenodo.18155414
 https://doi.org/10.5281/zenodo.18327841
+OSF:
+https://doi.org/10.17605/OSF.IO/W36CE
+
+---
 
 Architect survival fund.
 I don't want your grants.
