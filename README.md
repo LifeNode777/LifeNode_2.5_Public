@@ -1,3 +1,7 @@
+Interesting diacussion on reddit/cybernetics - https://www.reddit.com/r/cybernetics/comments/1qtq6ad/redefining_social_homeostasis_can_we_achieve/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+🫣
+
+---
 👨🏻‍🔬🕵🏻‍♂️ PROJECT LIFENODE on OSF - https://doi.org/10.17605/OSF.IO/W36CE 👁️🧿
 
 ---
