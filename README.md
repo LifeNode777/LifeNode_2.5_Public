@@ -325,6 +325,10 @@ https://www.wikidata.org/wiki/Q137900657
 
 WWW:
 https://lifenode777.github.io/LifeNode_2.0/
+
+Reddit:
+https://www.reddit.com/user/LifeNode777/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
 ---
 
 Architect survival fund.
