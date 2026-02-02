@@ -1,4 +1,4 @@
-Interesting diacussion on reddit/cybernetics - https://www.reddit.com/r/cybernetics/comments/1qtq6ad/redefining_social_homeostasis_can_we_achieve/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+Interesting discussion on reddit/cybernetics - https://www.reddit.com/r/cybernetics/comments/1qtq6ad/redefining_social_homeostasis_can_we_achieve/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 🫣
 
 ---
