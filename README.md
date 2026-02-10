@@ -1,4 +1,5 @@
 My essey on Reddit: https://www.reddit.com/user/LifeNode777/comments/1qutz23/lifenode_as_a_postindustrial_and/
+(8 february account banned 😹, but I made copies in archive.ph and web.archive.org xd)
 
 ---
 👨🏻‍🔬🕵🏻‍♂️ PROJECT LIFENODE on OSF - https://doi.org/10.17605/OSF.IO/W36CE 👁️🧿
