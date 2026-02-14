@@ -1,4 +1,4 @@
-14.02.2026 → first page of project wiki [LIFE NODE Wiki](https://github.com/LifeNode777/LifeNode_2.5_Public/wiki)
+14.02.2026 → first page of project wiki [LIFENODE Wiki](https://github.com/LifeNode777/LifeNode_2.5_Public/wiki)
 
 ---
 
