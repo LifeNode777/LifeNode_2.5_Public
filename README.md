@@ -1,3 +1,7 @@
+14.02.2026 → first page of project wiki [LIFE NODE Wiki](https://github.com/LifeNode777/LifeNode_2.5_Public/wiki)
+
+---
+
 My essey on Reddit: https://www.reddit.com/user/LifeNode777/comments/1qutz23/lifenode_as_a_postindustrial_and/
 (8 february account banned 😹, but I made copies in archive.ph and web.archive.org xd)
 
