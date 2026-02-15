@@ -1,3 +1,14 @@
+![Genesis&Consciousness.jpg](Genesis%26Consciousness.jpg)  
+
+![Twistor&Q-Core.jpg](Twistor%26Q-Core.jpg)
+
+![Holarchy&TonicTechnologies.jpg](Holarchy%26TonicTechnologies.jpg)
+
+
+---
+---
+
+
 14.02.2026 → first page of project wiki [LIFENODE Wiki](https://github.com/LifeNode777/LifeNode_2.5_Public/wiki)
 
 ---
