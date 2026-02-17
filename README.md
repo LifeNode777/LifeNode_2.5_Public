@@ -315,6 +315,9 @@ Yes, if:
 e-mail:
 krzysiek_230@op.pl
 
+Youtube:
+www.youtube.com/@LifeNode777
+
 TikTok:
 www.tiktok.com/@lifenode777
 
