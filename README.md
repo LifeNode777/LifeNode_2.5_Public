@@ -1,3 +1,6 @@
+> 👁️ **Core Framework Update:** The central essay **[Civilization of Resonance](https://github.com/LifeNode777/LifeNode_2.0/blob/main/Civilization_of_Resonance.md)** is now live in the main repository, featuring brand-new, high-fidelity bio-quantum engineering schematics, topological field visualizations, and the formal mathematics of Meld.
+---
+
 #The Forgotten Switch: How LifeNode Restores the Memory of Choice
 
 We once knew the difference between a hammer and a screwdriver. Then we built a universal harvester for everything and slowly forgot that tools have their own domains. We live in an era where the state paradigm – optimization, discretization, control – has ceased to be a method and has become a worldview. And when one approach claims to describe all of reality, we lose something fundamental: the memory that there is another way.
