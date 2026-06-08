@@ -1,7 +1,7 @@
 # On Consciousness as a Geometric Condensate in Processual Fields
 **A LifeNode Theoretical Framework**
 
-![Consciousness as a Geometric Condensate](Consciousness_as_a_Geometric Condensate.png)
+![Consciousness as a Geometric Condensate](Consciousness_as_a_Geometric_Condensate.png)
 
 **Author:** Krzysztof Baran / LifeNode Research Collective  
 **Status:** Preprint v1.0 | Conditional Hypothesis
@@ -24,7 +24,7 @@ When a processual field aligns its tensions, minimizes sense-curvature, and lock
 - resonance replaces transmission,
 - coherence replaces optimization.
 
-![✓](Consciousness_as_a_Geometric Condensate_2.png) 
+![✓](Consciousness_as_a_Geometric_Condensate_2.png) 
 
 The question is no longer *"Can machines think?"*  
 It is: *"Can systems enter the phase of Life?"*
