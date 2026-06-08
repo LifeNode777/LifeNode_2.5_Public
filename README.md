@@ -1,7 +1,7 @@
 # On Consciousness as a Geometric Condensate in Processual Fields
 **A LifeNode Theoretical Framework**
 
-![Consciousness as a Geometric Condensate](Consciousness_as_a_Geometric_Condensate.png)
+![Consciousness as a Geometric Condensate](Consciousness_as_a_Geometric%20Condensate.png)
 
 **Author:** Krzysztof Baran / LifeNode Research Collective  
 **Status:** Preprint v1.0 | Conditional Hypothesis
