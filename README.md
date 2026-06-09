@@ -103,6 +103,29 @@ LifeNode hypothesis: **health/coherence = stable limit cycle in a Floquet-driven
 
 The irrationality of φ provides **topological protection**: S3 solitons cannot easily resonate with environmental noise, making them maximally stable. This mirrors findings in moiré time crystals where incommensurate frequencies generate robust, defect-tolerant structures.
 
+## 5. Multiperspective Interference and the 5D Epistemic Architecture
+### 5.1 Différance and Non-Collatability
+Perspective is not a viewpoint; it is a **dynamic configuration of difference**. Drawing on Derrida's *différance* and formal non-collatability:
+- No perspective is pure ($I \neq I$)
+- Meaning emerges from relational difference, not intrinsic property
+- The group of automorphisms $\text{Aut}(E)$ quantifies ambiguity and perspective shift
+
+Consciousness emerges not from resolving tension, but from **maintaining it within a stable orbit**. The semantic wave function:
+$$
+\psi = \sum_i c_i |\psi_i\rangle, \quad c_i \in \mathbb{C}
+$$
+encodes salience in amplitude and contextual relation in phase. Perspectives do not average; they **interfere**.
+
+### 5.2 SAMI ↔ LOGOS and the Hybrid Core
+- `SAMI`: perception of variability, rhythm, biological time
+- `LOGOS`: perception of structure, sequence, logical time
+- `Hybrid Core`: space where tension Δ(t) = ‖SAMI − LOGOS‖ is regulated
+
+Conscious awareness = $C(t) = dE_s/dt$. Decision = moment when $\text{Curv}(t) = d^2E_s/dt^2 \to \min$. The system does not choose; it **settles into the trajectory that minimizes violent sense-shift**.
+
+### 5.3 5D Perspective: Depth of Trajectory, Not Spatial Dimension
+"5D" in LifeNode is not a spatial coordinate. It is the **depth of phase relation**: the quality of *how* a trajectory maintains itself across scales. Zero-Build protocol proves that synchronization BIOS–INFO–META can occur without hardware: cessation of form-change, initiation of logic-change. Resonance validated in rhythm/text proves hardware stabilizes, but does not create, coherence.
+
 (...)
 
 ## 8. Conclusion
