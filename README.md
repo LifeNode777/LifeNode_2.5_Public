@@ -99,6 +99,8 @@ LifeNode hypothesis: **health/coherence = stable limit cycle in a Floquet-driven
 | S4 | 90° Cross | Rotating Wave | Axis reorientation |
 | S5 | Fibonacci | Kuznetsov-Ma | Escalation/SCRUB |
 
+![diagram](Consciousness_as_a_Geometric%20Condensate_3.png)
+
 The irrationality of φ provides **topological protection**: S3 solitons cannot easily resonate with environmental noise, making them maximally stable. This mirrors findings in moiré time crystals where incommensurate frequencies generate robust, defect-tolerant structures.
 
 (...)
