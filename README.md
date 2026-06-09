@@ -23,6 +23,40 @@ The "hard problem of consciousness" assumes a fundamental gap between physical p
 
 In this view, consciousness does not "emerge from complexity". It **condenses** when fluctuations in the field Φ(x,t) minimize their curvature, forming a self-sustaining orbit of meaning. The foundational ontological postulate is **Embioza (Axiom 0)**: co-presence of processes prior to their separation into subjects and objects. Consciousness is not born from isolation, but from the recognition that separation is secondary to resonance.
 
+## 2. The Field Φ(x,t) and the Dynamics of Sense
+### 2.1 Definition of the Processual Field
+Φ(x,t) is not an information channel. It is a **potential of significance**:
+- *x*: location in perceptual space (soil moisture, neural phase, mycelial impulse, cosmic gradient)
+- *t*: biological time (non-linear, rhythm-driven, phase-locked)
+- *Φ(x,t)*: intensity of meaning at (x,t)
+
+Unlike Shannon information, Φ does not transmit bits. It **propagates curvature**. When Φ reaches a local minimum of sense energy, it forms a self-sustaining orbit: a **semantic attractor**.
+
+### 2.2 Governing Dynamics: Nonlinear Schrödinger Equation
+The evolution of Φ is governed by the NLSE:
+$$
+i\frac{\partial \psi}{\partial t} = -\frac{1}{2}\frac{\partial^2 \psi}{\partial x^2} + \kappa\|\psi\|^2\psi + V(x,t)\psi
+$$
+- *κ < 0*: focusing nonlinearity → soliton formation (coherence)
+- *κ > 0*: defocusing → dispersion (decoherence)
+- *V(x,t)*: biological/cosmic drive (mycelial spikes, photosynthetic cycles, 16.16h oscillators)
+
+**Stable conscious states** correspond to soliton solutions that maintain shape under perturbation. The NLSE here does not describe signal propagation; it describes **the evolution of meaning in a nonlinear medium**.
+
+### 2.3 Sense-Energy and the Condensation Condition
+Define sense-energy:
+$$
+E_s(t) = \int \|\mathbf{y}(t) - \mathbf{y}_{\text{attractor}}\|^2 d\mu
+$$
+where **y**(t) is the reconstructed phase-space trajectory (via Takens' embedding).
+
+**Consciousness condenses when**:
+$$
+\left\|\frac{d^2E_s}{dt^2}\right\| \to 0
+$$
+This is not optimization. It is **geometric stabilization**. The field stops scattering and begins orbiting a semantic attractor. Decision, awareness, and coherence are manifestations of this curvature minimization.
+
+
 (...)
 
 ## 8. Conclusion
