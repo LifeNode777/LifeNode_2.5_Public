@@ -7,7 +7,7 @@
 **Status:** Preprint v1.0 | Conditional Hypothesis
 **License:** CC-BY-NC-SA 4.0  
 **Date:** May 2026  
-**Repository:** github.com/LifeNode777 | Zenodo DOI: [...]
+**Repository:** github.com/LifeNode777 | Zenodo DOI: https://doi.org/10.5281/zenodo.20621097
 
 ---
 
