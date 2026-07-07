@@ -1,3 +1,5 @@
+![visualisation of Biological Timescape](Biological_Timescape.png)
+
 # LifeNode Theory: The Geometry of Biological Processes
 **A Mathematical Framework for Processual Intelligence and Geometric Condensates**
 
