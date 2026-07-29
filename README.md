@@ -4,7 +4,7 @@
 > 
 > *If You want to understand "what", "how" and "why" of the paradigm behind the LifeNode project, start by reading this essay.* ❤️‍🔥
 
-![visualisation of Biological Timescape](Biological_Timescape.png)
+![first primitive sketches of Q-Core & UNIT 02](co_tam_wy_kurwy_jebane_xD.png)
 
 # LifeNode Theory: The Geometry of Biological Processes
 **A Mathematical Framework for Processual Intelligence and Geometric Condensates**
