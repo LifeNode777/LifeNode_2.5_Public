@@ -4,6 +4,7 @@
 **Kontekst:** KTH Royal Institute of Technology / University of Southampton (2026) · LifeNode Phase 1 (Moduły A, H, F) · Tonic Technologies Master V1 · Kosmiczna Bioinżynieria, Rozdz. VII · WP-00
 **Słowa kluczowe:** HARFF, płaski światłowód, obliczenia morfologiczne, filtr geometryczny, spirala logarytmiczna S3, impedancja Finslera, Living Walls, Moduł A, Moduł H
 
+![shape_is_the_sensor](../img/shape_is_the_sensor.png)
 
 ## Abstrakt
 
