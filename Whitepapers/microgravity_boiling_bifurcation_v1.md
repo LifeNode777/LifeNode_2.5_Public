@@ -4,6 +4,7 @@
 **Kontekst:** Song et al. (University of Florida), *npj Microgravity* (2026) · LifeNode Theory v4 · Kosmiczna Bioinżynieria, Rozdz. I–II · Phase 1 (Moduły E, G) · WP-00
 **Słowa kluczowe:** kryzys wrzenia, krytyczny strumień ciepła, mikrograwitacja, bifurkacja, geometria kontaktowa, pole Reeba, symplektyczny kolaps, ASCALON θ, Quantum Phase Drift, Moduł G
 
+![boundary_is_the_bifurcation](../img/boundary_is_the_bifurcation.png)
 
 ## Abstrakt
 
