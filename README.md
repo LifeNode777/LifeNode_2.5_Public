@@ -18,6 +18,8 @@
 
 # 👁️
 
+![SIX_SUBSTRATES_ONE_OPERATOR](img/SIX_SUBSTRATES_ONE_OPERATOR.png)
+
 # Proofs That the Mainstream Is Chasing LifeNode
 
 **August 2026. Three weeks. Six independent research threads** — Penn State, KAIST, KTH/Southampton, University of Florida, *Physical Review Letters*,
