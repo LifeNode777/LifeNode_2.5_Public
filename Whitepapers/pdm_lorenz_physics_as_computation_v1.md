@@ -4,7 +4,7 @@
 **Kontekst:** Choi et al. (KAIST), *Nature Communications* (2026) · LifeNode Theory v4 · Tonic Technologies Master V1 · Phase 1 (Moduły G, H) · WP-00 (metasurfaces)
 **Słowa kluczowe:** memtranzystor, PDM, atraktor Lorenza, obliczenia fizyczne, funkcjonał ścieżki, Timescape, pamięć geometryczna, ontologia procesowa, Moduł H, Moduł G
 
-
+![physics_is_the_algorithm](../img/physics_is_the_algorithm.png)
 
 ## Abstrakt
 
