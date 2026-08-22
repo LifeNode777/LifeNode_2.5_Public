@@ -4,6 +4,7 @@
 **Kontekst:** *Physical Review Letters* (2026) · LifeNode Theory v4 · Tonic Technologies Master V1 · Multiperspective V2 · Phase 1 (Moduły C, E, G) · WP-00–WP-04
 **Słowa kluczowe:** kwantowy silnik cieplny, koherencja, zasób termodynamiczny, druga zasada, ASCALON θ, BPB, pamięć geometryczna, ontologia procesowa, Moduł G
 
+![coherence_is_the_fuel](../img/coherence_is_the_fuel.png)
 
 ## Abstrakt
 
