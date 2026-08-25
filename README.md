@@ -200,11 +200,11 @@ And perhaps this is the project's greatest, albeit quietest, gift: a reminder th
 🌀
 
 
-![Genesis&Consciousness.jpg](Genesis%26Consciousness.jpg)  
+![Genesis&Consciousness.jpg](img/Genesis%26Consciousness.jpg)  
 
-![Twistor&Q-Core.jpg](Twistor%26Q-Core.jpg)
+![Twistor&Q-Core.jpg](img/Twistor%26Q-Core.jpg)
 
-![Holarchy&TonicTechnologies.jpg](Holarchy%26TonicTechnologies.jpg)
+![Holarchy&TonicTechnologies.jpg](img/Holarchy%26TonicTechnologies.jpg)
 
 
 ---
