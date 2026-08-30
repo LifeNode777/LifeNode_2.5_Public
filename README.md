@@ -17,6 +17,10 @@ To examine the fabric of reality fragmented by a reductionist paradigm and claim
 ---
 </div>
 
+![acoustic_readout](img/acoustic_readout.png)
+
+---
+
 # 👁️
 
 ![SIX_SUBSTRATES_ONE_OPERATOR](img/SIX_SUBSTRATES_ONE_OPERATOR.png)
