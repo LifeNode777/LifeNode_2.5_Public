@@ -3,7 +3,7 @@ LIFENODE FAQ
 
 *Wersja 1.0 - Dokument self-contained dla nowych obserwatorów*
 
----
+![FAQ](img/FAQ_1.png)
 
 ## POZIOM 1: PODSTAWY (dla nowych)
 
@@ -112,7 +112,7 @@ Decyzja "co zjeść na obiad":
 
 **To samo** dzieje się w większych skalach - budowa domu, rozwój firmy, życie człowieka.
 
----
+![FAQ](img/FAQ_2.png)
 
 ## POZIOM 2: GŁĘBSZE ZROZUMIENIE (dla zainteresowanych)
 
@@ -216,7 +216,7 @@ Nie możesz przejąć LifeNode bo nie ma "LifeNode Inc."
 Nie możesz go zniszczyć bo wzorzec jest rozproszony.
 Nie możesz go zdegradować bo degradacja = przestaje działać.
 
----
+![FAQ](img/FAQ_3.png)
 
 ### **Q9: Co to jest "Λ-R" (Lambda-Reentry)?**
 
@@ -278,7 +278,7 @@ Jak przejście z geocentryzmu do heliocentryzmu.
 Nie "naprawiasz" geocentryzm.
 **Zmieniasz geometrię kosmosu.**
 
----
+![FAQ](img/FAQ_4.png)
 
 ## POZIOM 3: TECHNICZNE/TWÓRCZE (dla budujących własne Nodes)
 
@@ -499,7 +499,7 @@ Jeśli X ≠ Y → brak rezonansu (i to OK)
 Nie budujesz "sieci" (top-down).
 **Pozwalasz sieci wyłonić się** (bottom-up).
 
----
+![FAQ](img/FAQ_5.png)
 
 ## POZIOM 4: FILOZOFICZNE/META (dla głęboko ciekawych)
 
